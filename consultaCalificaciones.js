@@ -10,7 +10,7 @@ const estudiantes = [
     nombre: "Patricia Figueroa Rueda",
     dni: "27386238F",
     edad: 54,
-    calificacion: 5.2,
+    calificacion: 5,
     clave: "PfR*54dF",
   },
   {
